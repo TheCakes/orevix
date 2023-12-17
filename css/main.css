@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 500px;
+  height: 500px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 371px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 74px;
+  left: 71px;
+  font-family: Lemon;
+  font-weight: Regular;
+  font-size: 125px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_4 {
+  width: 425px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 263px;
+  left: 37px;
+  font-family: Lemon;
+  font-weight: Regular;
+  font-size: 125px;
+  opacity: 1;
+  text-align: center;
+}
