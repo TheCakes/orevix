@@ -4,10 +4,25 @@
 body {
   font-size: 14px;
 }
-.v7:155 {
-  color: #ffffff;
+.v7_156 {
+  width: 500px;
+  height: 500px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_155 {
+  width: 500px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
   font-family: Nunito;
   font-weight: Regular;
   font-size: 15px;
   opacity: 1;
+  text-align: left;
 }
